@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>Next Week News</title>
+<html><head><title>Next Week News</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
      h1 {
@@ -25,9 +23,7 @@
         color: white;
        background-color: transparent;
        text-decoration: underline;}
-</style>
-</head>
-<body>
+</style></head><body>
 <h1>NextWeekNews</h1>
 <p><a href="https://nextweeknews.com">Social Media</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nextweeknews.com">Store</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nextweeknews.com">About</a></p>
 <p><a href="https://nextweeknews.com"<style><font color=#0FAFFF>Video Archive</font></a></p>
