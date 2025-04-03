@@ -1,1 +1,33 @@
-
+h1 {
+  color: #0FAFFF;
+  font:times;
+  font-size: 36px;
+}
+p {
+  color: white;
+  font:times;
+  font-size: 24px;
+}
+body {
+  background-color: black;
+  padding: 10px;
+}
+div {
+  display: flex;
+  justify-content: center;
+}
+a:link {
+  color: #FF4040;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #FF4040;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
