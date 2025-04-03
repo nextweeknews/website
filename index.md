@@ -46,7 +46,7 @@ a:hover {
 
 <<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnextweeknews.com%2F&psig=AOvVaw1a915c5osPvtgGYPRbXy2t&ust=1743787798055000&source=images&opi=89978449" alt="Next Week News">
 
-<p><a href="https://nextweeknews.com">Social Media</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://nextweeknews.com">Store</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://nextweeknews.com">About</a></p>
+<p><a href="https://nextweeknews.com">Social Media</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nextweeknews.com">Store</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nextweeknews.com">About</a></p>
 
 <p><a href="https://nextweeknews.com"<style><font color=#0FAFFF>Video Archive</font></a></p>
 
