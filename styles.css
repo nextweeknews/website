@@ -31,6 +31,6 @@ a:hover {
   text-decoration: underline;
 }
 a[href^="http"] {
-    background: url(external.svg) center right no-repeat;
+    background: url(/external.svg) center right no-repeat;
     padding-right: 13px;
 }
